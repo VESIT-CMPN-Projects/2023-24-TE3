@@ -28,7 +28,7 @@ class _ChatScreenState extends State<ChatScreen> {
 
   Future<String> getGptResponse(String userInput) async {
     print("Hii asidbviasd");
-    final apiKey = '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';
+    final apiKey = 'asclssssa';
     final endpoint = 'https://api.openai.com/v1/chat/completions' ;
 
     final response = await http.post(
