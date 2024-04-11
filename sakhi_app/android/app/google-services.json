@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182078725088",
+    "project_id": "sakhi-app-a2a09",
+    "storage_bucket": "sakhi-app-a2a09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182078725088:android:c4a70ad3bd7d50b4fda985",
+        "android_client_info": {
+          "package_name": "com.example.flutter_pages"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATrJleK7mRSjXP6bfVN_gQKMEheGwQ2-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
